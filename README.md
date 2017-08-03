@@ -1,2 +1,5 @@
 # telegram-grouporganization
-This is the backend for a telegram bot to organize stuff in group chats...
+
+**DO NOT USE THIS**
+
+This is the recovered php backend for @groupagreebot, an advanced poll bot for Telegram. This version is deprecated, use the C#-version instead.
